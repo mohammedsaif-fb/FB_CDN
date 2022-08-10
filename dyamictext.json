@@ -1,0 +1,268 @@
+[
+  {
+    "Activity": "Draft submission of Line Status Change to ORR",
+    "Date": "06 June 2022",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Green"
+  },
+  {
+    "Activity": "Network Change \"Complex Project\" Notice issued",
+    "Date": "30 June 2022",
+    "Category": "4. Infrastructure Management",
+    "Milestone Category": "Milestone",
+    "Status": "Green"
+  },
+  {
+    "Activity": "Network Change \"Complex Project\" comments close",
+    "Date": "01 August 2022",
+    "Category": "4. Infrastructure Management",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Formal submission of Line Status to ORR",
+    "Date": "05 August 2022",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "AIW IM submit revised SMS to ORR",
+    "Date": "12 August 2022",
+    "Category": "4. Infrastructure Management",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Line Status Change accepted by the ORR",
+    "Date": "18 November 2022",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Notifiable Change (Reg 13) Letter issued by TfW RL",
+    "Date": "21 November 2022",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Notifiable Change (Reg 13) Letter issued by AIW IM",
+    "Date": "21 November 2022",
+    "Category": "4. Infrastructure Management",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "ORR Acceptance AIW IM revised SMS",
+    "Date": "02 December 2022",
+    "Category": "4. Infrastructure Management",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Bay Line status changes to Non-Mainline",
+    "Date": "01 January 2023",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Track and Signalling stage works complete",
+    "Date": "28 April 2023",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "TfW RL submit revised SMS to ORR",
+    "Date": "09 June 2023",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Stations construction complete",
+    "Date": "16 June 2023",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "1st 398 Provisional Acceptance",
+    "Date": "20 August 2023",
+    "Category": "2. Rolling Stock",
+    "Milestone Category": "Milestone",
+    "Status": "Amber"
+  },
+  {
+    "Activity": "OLE Complete",
+    "Date": "01 September 2023",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "398 Driver Training starts on the TAM",
+    "Date": "20 September 2023",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "ORR Acceptance TfW RL revised SMS",
+    "Date": "06 October 2023",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "1st 398 on Bay Line for compatibility testing (protected paths)",
+    "Date": "03 January 2024",
+    "Category": "2. Rolling Stock",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "60 398 Drivers trained on TAM",
+    "Date": "20 January 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Amber"
+  },
+  {
+    "Activity": "1st 398 Pax Service on TAM",
+    "Date": "15 February 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "LoS Proving Runs Start (protected paths)",
+    "Date": "24 June 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "CAR Bay Line Signalling Commissioned",
+    "Date": "20 July 2024",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "Bay Line closed for heavy rail vehicles",
+    "Date": "20 July 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "LoS Driver Training starts",
+    "Date": "20/07/2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "CAR Bay Line Energisation Event #3",
+    "Date": "15 August 2024",
+    "Category": "1. Infrastructure Transformation",
+    "Milestone Category": "Energisation",
+    "Status": "Amber"
+  },
+  {
+    "Activity": "1st 398 Pax Service on Bay Line",
+    "Date": "14 October 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "May 24 Timetable Change",
+    "Date": "15 December 2024",
+    "Category": "3. Organisational Readiness",
+    "Milestone Category": "Milestone",
+    "Status": "Grey"
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  },
+  {
+    "Activity": "",
+    "Date": "",
+    "Category": "",
+    "Milestone Category": "",
+    "Status": ""
+  }
+]
